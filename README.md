@@ -3,17 +3,25 @@
 
 This project is designed to autonomously determine the most efficient path for a drone to spray pesticides over individual pomegranate trees in a large farm. Using the Travelling Salesman Problem (TSP) algorithm, YOLOv5 for crop detection, and advanced image processing techniques, the tool calculates the optimal GPS-based path for the drone, ensuring efficient pesticide spraying.
 
-**Original Image:**
-![Original Image](Screenshots/Original.png)
+**Original Image1:**
+
+![Original Image](Screenshots/1.png)
+
+**Original Image2:**
+
+![Original Image](Screenshots/2.png)
 
 **Bounding Box Image:**
-![Bounding Box Image](Screenshots/bbox_detection.png)
+
+![Bounding Box Image](Screenshots/3.jpg)
 
 **Drone Path Image 1:**
-![Drone Path Image 1](Screenshots/resized_image1.png)
+
+![Drone Path Image 1](Screenshots/4.png)
 
 **Drone Path Image 2:**
-![Drone Path Image 2](Screenshots/resized_image2.png)
+
+![Drone Path Image 2](Screenshots/5.png)
 
 ## Features
 
